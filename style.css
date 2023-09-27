@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    border: 1px solid black; 
+    padding: 5px;
+    margin: 15px;
+    width: 85vw;
+    text-align: center; 
+    background-color:rgb(250, 145, 145);
+}
+.links{
+    display:inline; 
+    margin: 0px 15px 0px 15px; 
+    
+}
+.links a{
+    text-decoration:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 1px solid black; 
+}
+.links a:hover{
+    opacity: .1;
+    transition: .9;
+    font-size: large;
+}
+.rounded{border-radius: 10px;}
+.pink{background-color: rgb(255, 203, 211);}
+.or{background-color: rgb(255, 248, 216);}
+.red{background-color:rgb(255, 179, 179)}
+.yel{background-color: rgb(200, 219, 255);}
